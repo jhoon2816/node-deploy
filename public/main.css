@@ -105,17 +105,13 @@ input[type='text'], input[type='email'], input[type='password'], textarea {
 #search-form { text-align: right; }
 #join-form { padding: 10px; text-align: center; }
 #hashtag-form { text-align: right; }
-#fixedfooter {
-    position:fixed;
-    left:0px;
-    bottom:0px;
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
     width: 100%;
+    padding: 15px 0;
     text-align: center;
-}
-.inner {
-    background:#1E299D;
     color: white;
-    width: 200px;
-    padding: 15px;
-    display: inline-block;
+    background: black;
 }
