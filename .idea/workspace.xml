@@ -2,14 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e838b4fd-e219-44df-8e2d-2e13aab67302" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/routes/post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/hashtag.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/hashtag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/post.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/post.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/passport/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/passport/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passport/facebookStrategy.js" beforeDir="false" afterPath="$PROJECT_DIR$/passport/facebookStrategy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/passport/googleStrategy.js" beforeDir="false" afterPath="$PROJECT_DIR$/passport/googleStrategy.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/views/layout.pug" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,7 +68,10 @@
       <option name="presentableId" value="Default" />
       <updated>1576462349364</updated>
       <workItem from="1576462350564" duration="20408000" />
-      <workItem from="1576495422136" duration="5893000" />
+      <workItem from="1576495422136" duration="6539000" />
+      <workItem from="1576553860850" duration="14000" />
+      <workItem from="1576554434753" duration="1356000" />
+      <workItem from="1576557607823" duration="5378000" />
     </task>
     <servers />
   </component>
